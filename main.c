@@ -30,8 +30,6 @@ int main(void)
   }
 
     printf("\n\n");
-    // printf("[We think we know: \"WKH\" is \"the\"]\n");
-    // printf("[We are trying . : \"D\" as \"a\" and \"V\" as \"s\"]\n");
     printf("[We think we know: \"JTE\" is \"the\"]\n");
     printf("[We are trying . : \"D\" as \"a\" and \"V\" as \"s\"]\n");
 
